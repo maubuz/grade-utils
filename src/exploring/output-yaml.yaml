@@ -1,0 +1,18 @@
+message:
+  attachments:
+    image1.gif: !!binary |
+      R0lGODdhCAAIAPAAAAIGAfr4+SwAAAAACAAIAAACDIyPeWCsClxDMsZ3CgA7
+  cc:
+  - jane.doe@domain.com
+  content: 'Dear XYZ,
+
+
+    Lorem ipsum dolor sit amet...
+
+    '
+  date: 2022-01-16 12:46:17+00:00
+  from: john.doe@domain.com
+  subject: Friendly reminder
+  to:
+  - bobby@domain.com
+  - molly@domain.com
